@@ -1,0 +1,3 @@
+[submodule "games-ui"]
+	path = games-ui
+	url = git@github.com:larisabarabas/games-ui.git
