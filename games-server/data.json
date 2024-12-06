@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "title": "Marvel's Spider-Man 2",
+    "release_date": "2023-10-20",
+    "studio": "Insomniac Games",
+    "platform": "PlayStation 5",
+    "enabled": true,
+    "telemetry_events": [
+      { "event_name": "Player_Login", "enabled": true },
+      { "event_name": "Mission_Complete", "enabled": true },
+      { "event_name": "Boss_Fight_Started", "enabled": true },
+      { "event_name": "Bug_Report_Submitted", "enabled": false }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Horizon Forbidden West: Burning Shores",
+    "release_date": "2023-04-19",
+    "studio": "Guerrilla Games",
+    "platform": "PlayStation 5",
+    "enabled": true,
+    "telemetry_events": [
+      { "event_name": "Player_Login", "enabled": true },
+      { "event_name": "Mission_Complete", "enabled": true },
+      { "event_name": "Player_Damage_Taken", "enabled": true },
+      { "event_name": "Special_Playtest_Metrics", "enabled": false }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "God of War Ragnarök",
+    "release_date": "2022-11-09",
+    "studio": "Santa Monica Studio",
+    "platform": "PlayStation 4, PlayStation 5",
+    "enabled": true,
+    "telemetry_events": [
+      { "event_name": "Player_Login", "enabled": true },
+      { "event_name": "Mission_Complete", "enabled": true },
+      { "event_name": "Item_Collected", "enabled": true },
+      { "event_name": "Playtest_FPS_Monitoring", "enabled": false }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Gran Turismo 7",
+    "release_date": "2022-03-04",
+    "studio": "Polyphony Digital",
+    "platform": "PlayStation 4, PlayStation 5",
+    "enabled": true,
+    "telemetry_events": [
+      { "event_name": "Race_Completed", "enabled": true },
+      { "event_name": "Car_Customization_Started", "enabled": true },
+      { "event_name": "Leaderboard_Scored", "enabled": true },
+      { "event_name": "Playtest_Telemetry", "enabled": false }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Horizon Forbidden West",
+    "release_date": "2022-02-18",
+    "studio": "Guerrilla Games",
+    "platform": "PlayStation 4, PlayStation 5",
+    "enabled": true,
+    "telemetry_events": [
+      { "event_name": "Player_Login", "enabled": true },
+      { "event_name": "Quest_Started", "enabled": true },
+      { "event_name": "Enemy_Encountered", "enabled": true },
+      { "event_name": "Playtest_Debug_Tool", "enabled": false }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Ratchet & Clank: Rift Apart",
+    "release_date": "2021-06-11",
+    "studio": "Insomniac Games",
+    "platform": "PlayStation 5",
+    "enabled": true,
+    "telemetry_events": [
+      { "event_name": "Level_Completed", "enabled": true },
+      { "event_name": "Weapon_Unlocked", "enabled": true },
+      { "event_name": "Player_Death", "enabled": true },
+      { "event_name": "Playtest_Weapon_Balancing", "enabled": false }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Returnal",
+    "release_date": "2021-04-30",
+    "studio": "Housemarque",
+    "platform": "PlayStation 5",
+    "enabled": true,
+    "telemetry_events": [
+      { "event_name": "Run_Completed", "enabled": true },
+      { "event_name": "Biome_Entered", "enabled": true },
+      { "event_name": "Boss_Defeated", "enabled": true },
+      { "event_name": "Special_Playtest_Event", "enabled": false }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Demon's Souls",
+    "release_date": "2020-11-12",
+    "studio": "Bluepoint Games",
+    "platform": "PlayStation 5",
+    "enabled": false,
+    "telemetry_events": [
+      { "event_name": "Player_Death", "enabled": true },
+      { "event_name": "Soul_Collected", "enabled": true },
+      { "event_name": "Boss_Fight_Started", "enabled": true },
+      { "event_name": "Playtest_Network_Monitoring", "enabled": false }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Marvel's Spider-Man: Miles Morales",
+    "release_date": "2020-11-12",
+    "studio": "Insomniac Games",
+    "platform": "PlayStation 4, PlayStation 5",
+    "enabled": true,
+    "telemetry_events": [
+      { "event_name": "Player_Login", "enabled": true },
+      { "event_name": "Swing_Event", "enabled": true },
+      { "event_name": "Mission_Complete", "enabled": true },
+      { "event_name": "Playtest_Debug_Tool", "enabled": false }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "The Last of Us Part II",
+    "release_date": "2020-06-19",
+    "studio": "Naughty Dog",
+    "platform": "PlayStation 4",
+    "enabled": true,
+    "telemetry_events": [
+      { "event_name": "Player_Death", "enabled": true },
+      { "event_name": "Chapter_Completed", "enabled": true },
+      { "event_name": "Item_Crafted", "enabled": true },
+      { "event_name": "Special_Playtest_Tracking", "enabled": false }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Ghost of Tsushima",
+    "release_date": "2020-07-17",
+    "studio": "Sucker Punch Productions",
+    "platform": "PlayStation 4",
+    "enabled": true,
+    "telemetry_events": [
+      { "event_name": "Player_Death", "enabled": true },
+      { "event_name": "Mission_Complete", "enabled": true },
+      { "event_name": "Enemy_Spawned", "enabled": true },
+      { "event_name": "Playtest_Tracking", "enabled": false }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Dreams",
+    "release_date": "2020-02-14",
+    "studio": "Media Molecule",
+    "platform": "PlayStation 4",
+    "enabled": false,
+    "telemetry_events": [
+      { "event_name": "Player_Creation_Submitted", "enabled": true },
+      { "event_name": "Game_Published", "enabled": true },
+      { "event_name": "User_Logged_In", "enabled": true },
+      { "event_name": "Playtest_Feedback_Collection", "enabled": false }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Marvel's Spider-Man",
+    "release_date": "2018-09-07",
+    "studio": "Insomniac Games",
+    "platform": "PlayStation 4",
+    "enabled": true,
+    "telemetry_events": [
+      { "event_name": "Mission_Started", "enabled": true },
+      { "event_name": "Boss_Fight_Started", "enabled": true },
+      { "event_name": "Player_Login", "enabled": true },
+      { "event_name": "Special_Playtest_Debug", "enabled": false }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Shadow of the Colossus",
+    "release_date": "2018-02-06",
+    "studio": "Bluepoint Games",
+    "platform": "PlayStation 4",
+    "enabled": false,
+    "telemetry_events": [
+      { "event_name": "Player_Death", "enabled": true },
+      { "event_name": "Colossus_Engaged", "enabled": true },
+      { "event_name": "Colossus_Defeated", "enabled": true },
+      { "event_name": "Playtest_Motion_Capture", "enabled": false }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Horizon Zero Dawn",
+    "release_date": "2017-02-28",
+    "studio": "Guerrilla Games",
+    "platform": "PlayStation 4",
+    "enabled": true,
+    "telemetry_events": [
+      { "event_name": "Quest_Completed", "enabled": true },
+      { "event_name": "Enemy_Encountered", "enabled": true },
+      { "event_name": "Weapon_Equipped", "enabled": true },
+      { "event_name": "Playtest_Recording", "enabled": false }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Uncharted 4: A Thief's End",
+    "release_date": "2016-05-10",
+    "studio": "Naughty Dog",
+    "platform": "PlayStation 4",
+    "enabled": true,
+    "telemetry_events": [
+      { "event_name": "Mission_Completed", "enabled": true },
+      { "event_name": "Treasure_Collected", "enabled": true },
+      { "event_name": "Player_Death", "enabled": true },
+      { "event_name": "Playtest_AI_Behavior", "enabled": false }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "The Last Guardian",
+    "release_date": "2016-12-06",
+    "studio": "Team Ico",
+    "platform": "PlayStation 4",
+    "enabled": false,
+    "telemetry_events": [
+      { "event_name": "Player_Login", "enabled": true },
+      { "event_name": "Level_Completed", "enabled": true },
+      { "event_name": "Boss_Fight_Started", "enabled": true },
+      { "event_name": "Playtest_Tracking", "enabled": false }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Bloodborne",
+    "release_date": "2015-03-24",
+    "studio": "FromSoftware",
+    "platform": "PlayStation 4",
+    "enabled": true,
+    "telemetry_events": [
+      { "event_name": "Player_Death", "enabled": true },
+      { "event_name": "Boss_Fight_Started", "enabled": true },
+      { "event_name": "Item_Collected", "enabled": true },
+      { "event_name": "Playtest_Debug_Tool", "enabled": false }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Driveclub",
+    "release_date": "2014-10-07",
+    "studio": "Evolution Studios",
+    "platform": "PlayStation 4",
+    "enabled": false,
+    "telemetry_events": [
+      { "event_name": "Race_Completed", "enabled": true },
+      { "event_name": "Car_Upgraded", "enabled": true },
+      { "event_name": "Race_Start", "enabled": true },
+      { "event_name": "Playtest_Telemetry", "enabled": false }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "LittleBigPlanet 3",
+    "release_date": "2014-11-18",
+    "studio": "Sumo Digital",
+    "platform": "PlayStation 3, PlayStation 4",
+    "enabled": true,
+    "telemetry_events": [
+      { "event_name": "Level_Created", "enabled": true },
+      { "event_name": "Item_Collected", "enabled": true },
+      { "event_name": "Player_Login", "enabled": true },
+      { "event_name": "Playtest_Feedback_Collection", "enabled": false }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "inFAMOUS Second Son",
+    "release_date": "2014-03-21",
+    "studio": "Sucker Punch Productions",
+    "platform": "PlayStation 4",
+    "enabled": true,
+    "telemetry_events": [
+      { "event_name": "Power_Unlocked", "enabled": true },
+      { "event_name": "Enemy_Encountered", "enabled": true },
+      { "event_name": "Mission_Completed", "enabled": true },
+      { "event_name": "Playtest_Debug_Tool", "enabled": false }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "The Last of Us Remastered",
+    "release_date": "2014-07-29",
+    "studio": "Naughty Dog",
+    "platform": "PlayStation 4",
+    "enabled": true,
+    "telemetry_events": [
+      { "event_name": "Player_Death", "enabled": true },
+      { "event_name": "Mission_Completed", "enabled": true },
+      { "event_name": "Item_Crafted", "enabled": true },
+      { "event_name": "Special_Playtest_Tracking", "enabled": false }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Killzone Shadow Fall",
+    "release_date": "2013-11-15",
+    "studio": "Guerrilla Games",
+    "platform": "PlayStation 4",
+    "enabled": false,
+    "telemetry_events": [
+      { "event_name": "Player_Death", "enabled": true },
+      { "event_name": "Enemy_Spawned", "enabled": true },
+      { "event_name": "Mission_Started", "enabled": true },
+      { "event_name": "Playtest_Debug_Tool", "enabled": false }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Gran Turismo 6",
+    "release_date": "2013-12-06",
+    "studio": "Polyphony Digital",
+    "platform": "PlayStation 3",
+    "enabled": true,
+    "telemetry_events": [
+      { "event_name": "Race_Completed", "enabled": true },
+      { "event_name": "Car_Tuned", "enabled": true },
+      { "event_name": "Time_Trial_Started", "enabled": true },
+      { "event_name": "Playtest_Special_Features", "enabled": false }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "The Last of Us",
+    "release_date": "2013-06-14",
+    "studio": "Naughty Dog",
+    "platform": "PlayStation 3",
+    "enabled": true,
+    "telemetry_events": [
+      { "event_name": "Player_Death", "enabled": true },
+      { "event_name": "Mission_Completed", "enabled": true },
+      { "event_name": "Item_Crafted", "enabled": true },
+      { "event_name": "Special_Playtest_Feature", "enabled": false }
+    ]
+  }
+]
