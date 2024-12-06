@@ -1,4 +1,4 @@
-# Technical Test
+# Description
 
 This API provides access to a list of games. You can:
 
